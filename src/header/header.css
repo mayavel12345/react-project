@@ -1,0 +1,27 @@
+.headernavigations{display: flex;
+    justify-content: right;
+    position: absolute;
+    left: 1000px;}
+
+.headernavigations>a{text-decoration: none;
+    color: blue;
+    margin: 13px;
+    font-weight: 700;
+    z-index: 1000px;
+}
+
+.headerimage{padding: 10px;
+height: 273px;
+width: 1333px;
+padding: 10px;
+height: 273px;
+width: 1333px;
+box-shadow: 0px 0px 10px -2px ;}
+
+.title{position: absolute;
+    left: 204px;
+    top: 55px;
+    letter-spacing: 21px;
+    color: midnightblue;
+    font-size: 70px;
+    font-family: cursive;}
